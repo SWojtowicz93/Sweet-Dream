@@ -6,9 +6,28 @@ $dark: #2e2e2e;
 $green-color: #00ffaa;
 $green-color-hover: #0fe29c;
 
-$light-purple-gradient: linear-gradient(45deg, rgba(235, 75, 237, 0.55), rgba(251, 8, 255, 0.55));
-$purple-gradient: linear-gradient(45deg, rgba(212, 20, 241, 0.55), rgba(172, 10, 184, 0.55));
-$purple-gradient: linear-gradient(45deg, rgba(190, 10, 214, 0.55), rgba(153, 0, 255, 0.55));
-$purple-gradient-solid: linear-gradient(45deg, rgb(226, 20, 241), rgb(184, 10, 172));
-$light-purple-gradient-solid: radial-gradient(circle at top right, rgb(179, 0, 255) 0%, rgb(255, 0, 234) 100%);
-
+$light-purple-gradient: linear-gradient(
+  45deg,
+  rgba(235, 75, 237, 0.55),
+  rgba(251, 8, 255, 0.55)
+);
+$purple-gradient: linear-gradient(
+  45deg,
+  rgba(212, 20, 241, 0.55),
+  rgba(172, 10, 184, 0.55)
+);
+$purple-gradient: linear-gradient(
+  45deg,
+  rgba(190, 10, 214, 0.55),
+  rgba(153, 0, 255, 0.55)
+);
+$purple-gradient-solid: linear-gradient(
+  45deg,
+  rgb(226, 20, 241),
+  rgb(184, 10, 172)
+);
+$light-purple-gradient-solid: radial-gradient(
+  circle at top right,
+  rgb(179, 0, 255) 0%,
+  rgb(255, 0, 234) 100%
+);
