@@ -1,7 +1,7 @@
 # Sweet-Dream
 =========================
 
-This project was created to learn CSS Grid and does not use any frameworks. It's a simple application that demonstrates basic usage of CSS Grid in laying out elements on a web page.
+This project was created to learn CSS Flexbox and does not use any frameworks. It's a simple application that demonstrates basic usage of CSS Flexbox in laying out elements on a web page.
 
 Technologies
 ------------
